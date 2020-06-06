@@ -13,9 +13,6 @@
     "type": "git",
     "url": "https://github.com/gajus/prettyprint"
   },
-  "engines": {
-    "node": "+5.0.0"
-  },
   "keywords": [
     "prettyprint",
     "pretty-print",
